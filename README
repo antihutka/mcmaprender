@@ -1,0 +1,7 @@
+Renders all in-game maps into a single PNG file.
+Requires cNBT (https://github.com/FliPPeh/cNBT) and libpng.
+
+Usage:
+mcmaprender [map_path [output_file]]
+
+map_path must contain idcounts.dat and map_*.dat files.
